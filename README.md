@@ -2,7 +2,7 @@
 
 | Nom complet                     | Matricule |
 | ------------------------------- | --------- |
-| David Bacré Noubao              | 24G2910   |
+| Noubao David Bacré              | 24G2910   |
 | Ngon-Assna Régis                | 24H2322   |
 | Bagoulong Beteïgué Maxime       | 2025003   |
 | Djidjose Kangrang Jean-Baptiste | 24G2709   |
