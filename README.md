@@ -7,7 +7,7 @@
 | Bagoulong Beteïgué Maxime       | 2025003   |
 | Djidjose Kangrang Jean-Baptiste | 24G2709   |
 | Ngah Franc Le Roy               | 24G2049   |
-| Gormon Moïse                    | 24Xxxxx   |
+| Gormon Steeve Moïse             | 24G2069   |
 
 # 🧮 Opérations sur matrices et vecteurs en C (version dynamique)
 
