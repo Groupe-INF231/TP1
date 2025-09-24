@@ -5,8 +5,8 @@
 | David Bacré Noubao              | 24G2910   |
 | Ngon-Assna Régis                | 24H2322   |
 | Bagoulong Beteïgué Maxime       | 2025003   |
-| Djidjose Kangrang Jean-Baptiste | 24Xxxxx   |
-| Ngah Franc Le Roy               | 24Xxxxx   |
+| Djidjose Kangrang Jean-Baptiste | 24G2709   |
+| Ngah Franc Le Roy               | 24G2049   |
 | Gormon Moïse                    | 24Xxxxx   |
 
 # 🧮 Opérations sur matrices et vecteurs en C (version dynamique)
